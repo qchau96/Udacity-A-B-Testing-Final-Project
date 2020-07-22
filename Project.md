@@ -130,8 +130,8 @@ Since Retention Rate = Gross Conversion * Net Conversion, I will only use Gross 
 
 - Bonferroni method: alpha individual = alpha overall/number of metrics = 0.05/2 = 0.025
 
-Since the online calculator does not have option to choose alpha = 0.025, I calculate the size for alpha = 0.02 and alpha = 0.03 and take the average. 
-https://www.evanmiller.org/ab-testing/sample-size.html
+Since the [online calculator](https://www.evanmiller.org/ab-testing/sample-size.html) does not have option to choose alpha = 0.025, I calculate the size for alpha = 0.02 and alpha = 0.03 and take the average. 
+
 #### Gross Conversion
 
 - Dmin = 0.01
@@ -213,7 +213,9 @@ Since upper bound < 0, it is statistically significant. Upper bound also < d min
 Since 0 is in the confidence interval, it is not statistically significant. Also, d min = -0.0075 is in the confidence interval, it is not practically significant.
 
 ### c. Sign Tests
-https://www.graphpad.com/quickcalcs/binomial1.cfm
+
+I'm using the [online calculator](https://www.graphpad.com/quickcalcs/binomial1.cfm) for binomial test 
+
 #### Gross Conversion
 - Total Days: 23
 - Days with higher gross conversion: 4
