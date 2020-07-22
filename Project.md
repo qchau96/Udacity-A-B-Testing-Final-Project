@@ -234,7 +234,7 @@ Since P value < 0.05, it is not statistically significant
 
 I would recommend **launching** this change in the Udacity website!
 
-The analysis above shows that adding the question after students click “START FREE TRIAL” button can significantly decrease Gross Conversion rate both statistically and practically. It means there are more students who won't try the free trial if they know they cannot spend enough time for the courses. This will help Udacity improves the students experience on the website! The experiment also does not affect the Net Conversion rate both statistically and practically, meaning it will not only affect the conversion of users in overall process but also help students have a better learning experience on Udacity!
+The analysis above shows that adding the question after students click “START FREE TRIAL” button can significantly decrease Gross Conversion rate both statistically and practically. It means there are more students who won't try the free trial if they know they cannot spend enough time for the courses. The experiment also does not affect the Net Conversion rate both statistically and practically, meaning it will not only affect the conversion of users in overall process but also help students have a better learning experience on Udacity!
 
 
 
